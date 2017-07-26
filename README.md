@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Liasm
+An experimental proceduarly generated RPG/Rouglike/Strategy/Card game.
 
-You can use the [editor on GitHub](https://github.com/k4d4m/Liasm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The game is currently in early development phase, and is being developed individually by me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Preview
+Gameplay trailer coming soon!
 
-### Markdown
+### Client
+The current client version is 1.1
+You can download it [here](https://github.com/k4d4m/Liasm/releases/download/v1.1/Liasm.1.1.zip)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Community
+You can join the community group [here](http://steamcommunity.com/groups/Liasm)
 
-```markdown
-Syntax highlighted code block
+### Support
+My goal is to release the game on steam greenlight, so if you like my project, you can support me [here](https://paypal.me/k4d4m)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k4d4m/Liasm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
