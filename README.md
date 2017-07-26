@@ -16,4 +16,5 @@ You can join the community group [here!](http://steamcommunity.com/groups/Liasm)
 ### Support
 My primary goal is to build up a player base for development feedback, so if you like the concept, join the community group, and feel free to spread the world!
 
-My secondary goal is to release the game on steam, so I'm raising money for the 100$ "Steam Direct" fee. You can help make it happen [here!](https://paypal.me/k4d4m)
+My secondary goal is to release the game on steam, so I accept donations for the 100$ Steam Direct fee [here!](https://paypal.me/k4d4m)
+
