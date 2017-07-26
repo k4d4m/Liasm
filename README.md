@@ -1,5 +1,6 @@
 ## Welcome to Liasm
-An experimental proceduarly generated RPG/Rouglike/Strategy/Card game.
+An experimental proceduarly generated 
+RPG/Rouglike/Strategy/Card game.
 
 The game is currently in early development phase, and is being developed individually by me.
 
