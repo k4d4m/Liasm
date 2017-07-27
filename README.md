@@ -1,6 +1,6 @@
 ## Welcome to Liasm
 An experimental proceduarly generated 
-RPG/Rouglike/Strategy/Card game.
+RPG/Rougelike/Strategy/Card game.
 
 The game is currently in early development phase, and is being developed individually by me.
 
@@ -15,7 +15,8 @@ You can download it [here!](https://github.com/k4d4m/Liasm/releases/download/v1.
 You can join the community group [here!](http://steamcommunity.com/groups/Liasm)
 
 ### Support
-My primary goal is to build up a player base for development feedback, so if you like the concept, join the community group, and feel free to spread the world!
+My primary goal is to build up a player base for development feedback, so if you like the concept, join the community group and share your thoughts!
+Feel free to publish your gameplay experiences!
 
 My secondary goal is to release the game on steam, so I accept donations for the 100$ Steam Direct fee [here!](https://paypal.me/k4d4m)
 
