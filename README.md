@@ -1,21 +1,31 @@
 ## Welcome to Liasm
-An experimental proceduarly generated 
-rpg/roguelike/strategy/card game.
+An experimental indie game, based on the concept of combining the following genres and elements:
 
-The game is currently in early development phase, and is being developed individually by me.
+- proceduarly generated 
+- open world
+- roguelike
+- rpg
+- turn based
+- survival-horror
+- strategy
+- card game
+
+The game is currently in early development phase, and being developed individually by me. During this process, the game mechanincs and contents may change.
+
 
 ### Preview
-Gameplay trailer coming soon!
+<div style="text-align: center"><iframe width="854" height="480" src="https://www.youtube.com/embed/dCgWyRek6E0" frameborder="0" allowfullscreen></iframe></div>
 
-### Client
-The current client version is 1.1
-You can download it [here!](https://github.com/k4d4m/Liasm/releases/download/v1.1/Liasm.1.1.zip)
+
+### Download
+The current version is v1.1.1
+You can download it from [github](https://github.com/k4d4m/Liasm/releases)
+
 
 ### Community
-You can join the community group [here!](http://steamcommunity.com/groups/Liasm)
+Share your thoughts in the community group on [steam](http://steamcommunity.com/groups/Liasm)
+
 
 ### Support
-My primary goal is to build up a player base for development feedback, so if you like the concept, join the community group and share your thoughts. Any feedback is appreciated.
-
-My secondary goal is to release the game on steam, so I accept donations for the 100$ Steam Direct fee [here!](https://paypal.me/k4d4m)
+You can [paypal.me](https://paypal.me/k4d4m)
 
