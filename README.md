@@ -25,7 +25,3 @@ You can download it from [github](https://github.com/k4d4m/Liasm/releases)
 ### Community
 Share your thoughts in the community group on [steam](http://steamcommunity.com/groups/Liasm)
 
-
-### Support
-You can [paypal.me](https://paypal.me/k4d4m)
-
