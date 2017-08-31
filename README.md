@@ -1,5 +1,5 @@
 ## Welcome to Liasm
-An experimental indie game, based on the concept of combining the following genres and elements:
+An experimental indie game project, based on the concept of combining the following gameplay elements:
 
 - proceduarly generated 
 - open world
@@ -10,7 +10,7 @@ An experimental indie game, based on the concept of combining the following genr
 - strategy
 - card game
 
-The game is currently in early development phase, and being developed individually by me. During this process, the game mechanincs and contents may change.
+The game is currently in early development phase, and being developed individually by me as a hobby. During this process, the game mechanincs and contents may change.
 
 
 ### Preview
