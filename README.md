@@ -12,6 +12,9 @@ An experimental indie game project, based on the concept of combining the follow
 
 The game is currently in early development phase, and being developed individually by me as a hobby. During this process, the game mechanincs and contents may change.
 
+### News
+I'll upload v1.1.2 soon with a bunch of skill mechanic fixes, and more content
+
 
 ### Preview
 <div style="text-align: center"><iframe width="854" height="480" src="https://www.youtube.com/embed/dCgWyRek6E0" frameborder="0" allowfullscreen></iframe></div>
