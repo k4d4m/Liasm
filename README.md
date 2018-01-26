@@ -13,7 +13,7 @@ An experimental indie game project, based on the concept of combining the follow
 The game is currently in early development phase, and being developed individually by me as a hobby. During this process, the game mechanincs and contents may change.
 
 ### News
-I'll upload v1.1.2 soon with a bunch of skill mechanic fixes, and more content
+Currently, I'm working on a new, polished version of the game using an actual game engine. Because of this decision, I had to start it from scratch, so it will might take a while.
 
 
 ### Preview
