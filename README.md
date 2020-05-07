@@ -6,14 +6,11 @@ An experimental indie game project, based on the concept of combining the follow
 - roguelike
 - rpg
 - turn based
-- survival-horror
+- survival
 - strategy
 - card game
 
 The game is currently in early development phase, and being developed individually by me as a hobby. During this process, the game mechanincs and contents may change.
-
-### News
-I started working on a new version of the game using [Haxe](https://haxeflixel.com/). Because of this decision, I had to start it from scratch, so it will might take a while till the next update.
 
 
 ### Preview
@@ -21,7 +18,7 @@ I started working on a new version of the game using [Haxe](https://haxeflixel.c
 
 
 ### Download
-The current version is v1.1.1
+The latest version is v1.2
 You can download it from [github](https://github.com/k4d4m/Liasm/releases)
 
 
