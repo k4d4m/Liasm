@@ -16,5 +16,4 @@ The game is currently in early development phase, and being developed individual
 The latest version is v1.2
 You can download it from [github](https://github.com/k4d4m/Liasm/releases)
 
-### Preview
 <img src="images/preview.png" alt="hi" class="inline"/>
